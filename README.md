@@ -169,7 +169,7 @@ MIT License
 ## 👤 Author
 
 **Hammad Mirza**  
-[LinkedIn](https://linkedin.com/in/hammadmirz) • [GitHub](https://github.com/hammadmrza)
+[GitHub](https://github.com/hammadmrza)
 
 ---
 
